@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG00MmhqY2hwcXVkZHR3aGRtaWJrb2U1ZXBiaTg3bW9oNmc4bWo1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znFOMXuHVkV36qzdbJ/giphy.gif" alt="Banner" height="300" width="100%">
 </p>
 <h1 align="center">Hi 👋, Edward Morhe here!<h1/>
-<h3 align="center">I'm always eager to build and get the know between why things work or why they don't...</h3>
+<h3 align="center">I'm always eager to build and enquire about why things work the way they do or why they don't and how I can add value...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weirdtdd&label=Profile%20views&color=0e75b6&style=flat" alt="weirdtdd" /> </p>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNqOG51YWxlOGkya245Nnp4ZXBpcWltaXJ1am9vbHRmNzBmNjh1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
