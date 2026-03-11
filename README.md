@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/edwardmorhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwardmorhe" height="30" width="40" /></a>
 </p>
 
-### 🛠 Languages & Tools
+### 🛠 Stack & Tools
 
 **Frontend**
 <p align="left">
@@ -53,6 +53,7 @@
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Docker-FF6C37?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weirdtdd\&show\_icons=true\&locale=en\&layout=compact" alt="weirdtdd" /></p>
 
