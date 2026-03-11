@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weirdtdd&label=Profile%20views&color=0e75b6&style=flat" alt="weirdtdd" /> </p>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNqOG51YWxlOGkya245Nnp4ZXBpcWltaXJ1am9vbHRmNzBmNjh1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-- 🔭 I’m currently working on ** heavy data systems and dashboards**
+- 🔭 I’m currently working on **heavy data systems and dashboards.**
 
 - 🌱 I’m currently exploring **data engineering.**
 
