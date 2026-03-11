@@ -13,7 +13,7 @@
 
 - 👯 I’m actively collaborating **and solving real world complex problems.**
 
-- I'm a fan of thrillers: **novels, poetry, anime...**
+- I'm a fan of thrilling: **novels, poetry, anime...**
 
 - 📫 How to reach me **https://www.linkedin.com/in/edwardmorhe/**
 
