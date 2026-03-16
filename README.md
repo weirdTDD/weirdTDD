@@ -55,8 +55,8 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Docker-0000ff?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weirdtdd\&show\_icons=true\&locale=en\&layout=compact" alt="weirdtdd" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weirdTDD\&show\_icons=true\&locale=en\&layout=compact" alt="weirdtdd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weirdtdd\&show\_icons=true\&locale=en" alt="weirdtdd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weirdTDD\&show\_icons=true\&locale=en" alt="weirdtdd" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=weirdtdd\&" alt="weirdtdd" /></p> -->
